@@ -1,0 +1,65 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+.marvel1 {
+    width: 700px;
+    height: 400px;
+    padding-left: 100px;
+    margin-bottom: 150px;
+}
+    .images{
+        display: inline-block;
+        margin-top: 200px;
+        margin-left: -805px;
+    
+}
+.marvel2{
+    width: 150px;
+    padding-left: 100px;
+    padding-right: 30px;
+    padding-top: 60px;
+}
+.marvel3{
+    width: 150px;
+    padding-right: 30px;
+}
+.marvel4{
+    width: 150px;
+    padding-right: 30px;
+}
+.marvel5{
+    width: 150px;
+}
+.h2{
+margin-left: 70%;
+display: inline-block;
+margin-top: 30px;
+font-size: 25px;
+}
+
+.line{
+background: red;
+margin-left: 63%;
+height: 5px;
+width: 500px;
+}
+.text
+{
+    display: inline-block;
+    width: 450px;
+    height: 400px;
+    float: right;
+    margin-right: 230px;
+    font-size: 20px;
+    font-family: marvel;
+    font-weight: 400;
+}
+@font-face {
+    font-family: marvel;
+    src: url(./font/Marvel.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
