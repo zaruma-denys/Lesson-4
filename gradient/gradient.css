@@ -1,0 +1,74 @@
+* {
+  font-size: 100px;
+  box-sizing: border-box;
+}
+.container1 {
+  width: 270px;
+  height: 1000px;
+  background: linear-gradient(to bottom, red, orange);
+  color: aliceblue;
+  padding-top: 450px;
+  padding-left: 80px;
+  box-sizing: border-box;
+  float: left;
+}
+.container2 {
+  width: 270px;
+  height: 1000px;
+  background: linear-gradient(to bottom, rgb(255, 0, 200), rgb(52, 4, 129));
+  color: aliceblue;
+  padding-top: 450px;
+  padding-left: 110px;
+  display: inline-block;
+}
+.container3 {
+    width: 270px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgb(136, 255, 0), rgb(255, 238, 0));
+    color: aliceblue;
+    padding-top: 450px;
+    padding-left: 100px;
+    margin-left: -30px;
+    display: inline-block;
+  }
+  .container4 {
+    width: 270px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgb(49, 39, 30), rgb(82, 158, 67));
+    color: aliceblue;
+    padding-top: 450px;
+    padding-left: 100px;
+    margin-left: -30px;
+    display: inline-block;
+  }
+  .container5 {
+    width: 270px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgb(156, 66, 54), rgb(255, 241, 162));
+    color: aliceblue;
+    padding-top: 450px;
+    padding-left: 100px;
+    margin-left: -30px;
+    display: inline-block;
+  }
+  .container6 {
+    width: 270px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgb(255, 30, 0), rgb(248, 96, 141));
+    color: aliceblue;
+    padding-top: 450px;
+    padding-left: 100px;
+    margin-left: -30px;
+    display: inline-block;
+  }
+  .container7 {
+    width: 270px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgb(116, 76, 39), rgb(187, 241, 196));
+    color: aliceblue;
+    padding-top: 450px;
+    padding-left: 100px;
+    margin-left: -30px;
+    display: inline-block;
+  }
+  
