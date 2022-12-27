@@ -1,0 +1,38 @@
+* {
+  font-size: 25px;
+  padding: 10px;
+  margin-left: 40px;
+}
+h1 {
+  display: inline-block;
+  margin-right: 55%;
+}
+.block1 {
+  display: inline-block;
+  transition: 0.2s;
+}
+.block2 {
+  display: inline-block;
+}
+.block3 {
+  display: inline-block;
+  transition: 0.2s;
+}
+.block4 {
+  display: inline-block;
+  transition: 0.2s;
+}
+
+.block1:hover {
+  background: gray;
+}
+
+.block2:hover {
+  background: gray;
+}
+.block3:hover {
+  background: gray;
+}
+.block4:hover {
+  background: gray;
+}
